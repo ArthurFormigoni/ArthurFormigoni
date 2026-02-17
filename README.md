@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Tutz!
 
-<!--
-**ArthurFormigoni/ArthurFormigoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.tenor.com/5z2n9j9m9iUAAAAC/hollow-knight.gif" width="300"/>
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em constante evolução  
+🏦 Atualmente trabalho na **PicPay**  
+📚 Continuo estudando e me aprofundando em programação todos os dias  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que já utilizei
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" />
+</p>
+
+---
+
+## 🧠 Atualmente estudando
+- Spring Boot  
+- MongoDB  
+- Arquitetura de software  
+- Boas práticas de desenvolvimento  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFormigoni&show_icons=true&theme=dark" />
+</p>
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/ArthurFormigoni
+
+✨ *Sempre aprendendo, sempre evoluindo.*
