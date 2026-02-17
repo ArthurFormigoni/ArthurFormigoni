@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Arthur Formigoni Santos da Cruz!
 
 <p align="center">
-  <img src="./assets/hornet-hollow-knight.gif" width="450"/>
+  <img src="hornet-hollow-knight.gif" width="450"/>
 </p>
 
 💻 Desenvolvedor em constante evolução  
