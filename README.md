@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Arthur Formigoni Santos da Cruz!
 
-<img src="[https://media.tenor.com/5z2n9j9m9iUAAAAC/hollow-knight.gif](https://media1.tenor.com/m/tzJLT_QujbYAAAAd/hollow-knight.gif)" width="300"/>
+<p align="center">
+  <img src="./assets/hornet-hollow-knight.gif" width="450"/>
+</p>
 
 💻 Desenvolvedor em constante evolução  
 🏦 Atualmente trabalho na **PicPay**  
