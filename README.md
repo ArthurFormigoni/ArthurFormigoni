@@ -7,7 +7,7 @@
     📚 Continuo estudando e me aprofundando em programação todos os dias
   </span>
 
-  <img src="hornet-hollow-knight.gif" width="300"/>
+  <img src="hornet-hollow-knight.gif" width="200"/>
 </div>
 
 ---
