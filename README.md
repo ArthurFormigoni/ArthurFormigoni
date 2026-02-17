@@ -1,12 +1,18 @@
 # 👋 Olá, eu sou o Arthur Formigoni Santos da Cruz!
 
-<p align="center">
-  <img src="hornet-hollow-knight.gif" width="450"/>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
-💻 Desenvolvedor em constante evolução  
-🏦 Atualmente trabalho na **PicPay**  
-📚 Continuo estudando e me aprofundando em programação todos os dias  
+  <div>
+    💻 <strong>Desenvolvedor em constante evolução</strong><br>
+    🏦 Atualmente trabalho na <strong>PicPay</strong><br>
+    📚 Continuo estudando e me aprofundando em programação todos os dias
+  </div>
+
+  <div>
+    <img src="hornet-hollow-knight.gif" width="300"/>
+  </div>
+
+</div>
 
 ---
 
